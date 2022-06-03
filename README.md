@@ -17,7 +17,7 @@ NB. This module is still in an embryonic stage.
 It was developed for a specific case [Mandala OG](http://www.mandalaorganicgrowers.com) and there are several aspects to be improved. Not least, the e-CMR project https://uptr.be/fr/informations/e-cmr-lettre-de-voiture-electronique/ needs to be evaluated.
 It works parsing product description with the following format:  
 
-        Abricots Tsunami | ApricotsTsunami BIO
+        Abricots Tsunami | Apricots Tsunami BIO
         108 X 6kg = 648kg (694.5kg BRUT)
         Lotto N. 4390869
         ORIGINE ITALIA
