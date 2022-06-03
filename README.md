@@ -13,9 +13,11 @@ The module is part of the doliFARM suite. [Dolifarm.com](https://www.dolifarm.co
 
 doliCMR allows the [CMR waybill](https://en.wikipedia.org/wiki/CMR_Convention) to be generated from the shipment information. 
 
-NB. This module is still in an embryonic stage. **Enter**
+NB. This module is still in an embryonic stage.  
+
 It was developed for a specific case [Mandala OG](http://www.mandalaorganicgrowers.com) and there are several aspects to be improved. Not least, the e-CMR project https://uptr.be/fr/informations/e-cmr-lettre-de-voiture-electronique/ needs to be evaluated.
-It works parsing product description with the following format: **Enter**
+It works parsing product description with the following format:  
+
         Abricots Tsunami | ApricotsTsunami BIO
         108 X 6kg = 648kg (694.5kg BRUT)
         Lotto N. 4390869
