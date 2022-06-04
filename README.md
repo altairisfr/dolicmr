@@ -35,7 +35,9 @@ Translations can be completed manually by editing files into directories *langs*
 It follows the standard installation for the Dolibarr module. For more information: [official Dolibarr documentation](https://wiki.dolibarr.org/).
 
 
-## WHAT DOLITRACE CAN'T DO YET
+## WHAT DOLICMR CAN'T DO YET
+- Elaborate different CMR starting from the same shipment
+- Provide API for external access to the CMR
 
 ## CONTRIBUTING
 
